@@ -1,0 +1,16 @@
+[
+    {
+        "bundle": "com.hoangminhthanh.ledsy",
+        "name": "Ledsy - LED Banner",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/6c/9b/4c6c9bf0-664c-de52-973f-5ec0a39fa486/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
+        "category": "Utilities",
+        "url": "https://apps.apple.com/id/app/ledsy-led-banner/id1572666228"
+    },
+    {
+        "bundle": "com.hoangminhthanh.DayTogether",
+        "name": "Day Together - Love Days Count",
+        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/af/dc/69/afdc6936-716e-6f4f-71a4-11cba3b3952b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
+        "category": "Lifestyle",
+        "url": "https://apps.apple.com/id/app/day-together-love-days-count/id1527953232"
+    }
+]
