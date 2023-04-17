@@ -19,5 +19,26 @@
         "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/77/19/6a/77196ace-5ef8-4deb-bb10-17c4deb2fb49/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
         "category": "Utilities",
         "url": "https://apps.apple.com/id/app/phone-checker-test-my-device/id1610903422"
+    },
+    {
+        "bundle": "com.hoangminhthanh.AdRevenue",
+        "name": "Earnings Tracker",
+        "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/84/35/45/84354569-09fb-539a-0c20-e36f6ac7319e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp",
+        "category": "Utilities",
+        "url": "https://apps.apple.com/id/app/earnings-tracker/id1593844442"
+    },
+    {
+        "bundle": "com.hoangminhthanh.SuperRandom",
+        "name": "Super Random",
+        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/03/d7/7a03d799-a513-39f5-570b-00f3bc10517f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/320x0w.webp",
+        "category": "Utilities",
+        "url": "https://apps.apple.com/id/app/super-random/id1589882641"
+    },
+    {
+        "bundle": "com.hoangminhthanh.GymGeeks",
+        "name": "GymGeeks: Guide & Schedule",
+        "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/77/e1/ba/77e1ba9a-30cf-4238-ab3c-8d1955afde39/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
+        "category": "Health & Fitness",
+        "url": "https://apps.apple.com/id/app/gymgeeks-guide-schedule/id1576065594"
     }
 ]
