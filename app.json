@@ -12,5 +12,12 @@
         "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple126/v4/af/dc/69/afdc6936-716e-6f4f-71a4-11cba3b3952b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
         "category": "Lifestyle",
         "url": "https://apps.apple.com/id/app/day-together-love-days-count/id1527953232"
+    },
+    {
+        "bundle": "com.hoangminhthanh.PhoneChecker",
+        "name": "Phone Checker - Test My Device",
+        "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/77/19/6a/77196ace-5ef8-4deb-bb10-17c4deb2fb49/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
+        "category": "Utilities",
+        "url": "https://apps.apple.com/id/app/phone-checker-test-my-device/id1610903422"
     }
 ]
