@@ -21,6 +21,13 @@
         "url": "https://apps.apple.com/id/app/phone-checker-test-my-device/id1610903422"
     },
     {
+        "bundle": "com.hoangminhthanh.Mompee",
+        "name": "Mompee: Pregnancy Tracker",
+        "icon": "https://is2-ssl.mzstatic.com/image/thumb/Purple116/v4/46/fd/79/46fd790b-b5ad-2ae1-0774-ab69c6f3832e/AppIcon-0-1x_U007epad-0-85-220.png/460x0w.webp",
+        "category": "Health & Fitness",
+        "url": "https://apps.apple.com/ee/app/mompee-pregnancy-tracker/id6448526295"
+    },
+    {
         "bundle": "com.hoangminhthanh.AdRevenue",
         "name": "Earnings Tracker",
         "icon": "https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/84/35/45/84354569-09fb-539a-0c20-e36f6ac7319e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/246x0w.webp",
