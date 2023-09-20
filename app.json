@@ -47,5 +47,12 @@
         "icon": "https://is5-ssl.mzstatic.com/image/thumb/Purple116/v4/77/e1/ba/77e1ba9a-30cf-4238-ab3c-8d1955afde39/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.webp",
         "category": "Health & Fitness",
         "url": "https://apps.apple.com/id/app/gymgeeks-guide-schedule/id1576065594"
+    },
+    {
+        "bundle": "com.hoangminhthanh.GymGeeks",
+        "name": "IP Finder - What is my IP",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/a0/ba/daa0ba22-2a2f-ef7e-8a4e-001bd3c3b756/AppIcon-0-1x_U007epad-0-85-220.png/146x0w.webp",
+        "category": "Utilities",
+        "url": "https://apps.apple.com/ee/app/ip-finder-what-is-my-ip/id6465075375"
     }
 ]
