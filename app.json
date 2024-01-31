@@ -54,5 +54,12 @@
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/a0/ba/daa0ba22-2a2f-ef7e-8a4e-001bd3c3b756/AppIcon-0-1x_U007epad-0-85-220.png/146x0w.webp",
         "category": "Utilities",
         "url": "https://apps.apple.com/ee/app/ip-finder-what-is-my-ip/id6465075375"
+    },
+    {
+        "bundle": "com.hoangminhthanh.IPTV365",
+        "name": "IPTV Eazy - Watch TV Online",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c0/56/e3/c056e30b-74db-0ee6-c33c-fb5c7217162e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/320x0w.webp",
+        "category": "Entertainment",
+        "url": "https://apps.apple.com/ee/app/iptv-eazy-watch-tv-online/id1671731913"
     }
 ]
