@@ -61,5 +61,12 @@
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c0/56/e3/c056e30b-74db-0ee6-c33c-fb5c7217162e/AppIcon-0-0-1x_U007epad-0-0-85-220.png/320x0w.webp",
         "category": "Entertainment",
         "url": "https://apps.apple.com/ee/app/iptv-eazy-watch-tv-online/id1671731913"
+    },
+    {
+        "bundle": "com.hoangminhthanh.XoSoNow",
+        "name": "Xổ Số Now - Xem Kết Quả Xổ Số",
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/44/01/83440151-2420-7b12-7c9a-ac9290fcc0aa/AppIcon-0-0-1x_U007epad-0-0-85-220.png/246x0w.webp",
+        "category": "News",
+        "url": "https://apps.apple.com/cg/app/xổ-số-now-xem-kết-quả-xổ-số/id6453410766"
     }
 ]
